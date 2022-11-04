@@ -29,12 +29,12 @@ Example of name lists can be found in
 ## Features
 
 Script uses automated control of Chrome browser, it's designed for long term operation (24 hour of scraping)
- - It goes to Slovene phonebook,
- - copies the name of the city from cities.txt
- - copies it into the form and clicks search
- - scrapes through all the pages by name
- - stores the names in three files
-    - names.txt : unique Slovene names seperated by new line
-    - namecsv.txt : unique Slovene names seperated by ;
-    - nameSurname.txt : all scraped Slovene names and surnames seperated by new line
- - Due to memory issues with long term Chrome operation, some configurations changes were added to Chrome via Options() object as well as restart of the browser with cache clearing every half hour.
+ - It goes to Slovene phonebook website,
+ - clicks persons buttton,
+ - copies the name of the city from cities.txt and clicks search,
+ - scrapes through all the pages by name,
+ - stores the names in three files,
+    - names.txt : unique Slovene names seperated by new line,
+    - namecsv.txt : unique Slovene names seperated by ;,
+    - nameSurname.txt : all scraped Slovene names and surnames seperated by new line,
+ - due to memory issues with long term Chrome operation, some configurations changes were added to Chrome via Options() object as well as restart of the browser with cache clearing every half hour. The script can operate for 24+ hours without crashing.
