@@ -1,6 +1,6 @@
 # Read [ITIS](https://www.itis.si/) and create a list with unique slovene names
 
-![UniqueSloveneNamesWebCrawler](https://user-images.githubusercontent.com/42610159/194009259-736f4d0e-6ea9-4786-b171-e77f3794a209.jpg)
+![UniqueSloveneNamesWebCrawler](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/WebCrawl.jpg)
 
 ## Description
 
