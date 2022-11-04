@@ -35,4 +35,4 @@ Script uses automated control of Chrome browser, it's designed for long term ope
     - names.txt : unique Slovene names seperated by new line
     - namecsv.txt : unique Slovene names seperated by ;
     - nameSurname.txt : all scraped Slovene names and surnames seperated by new line
- - Due to memory issues with long term operation, some configurations were added to Chrome via Options() object as well as restart of the browser with cache clearing every half hour.
+ - Due to memory issues with long term Chrome operation, some configurations changes were added to Chrome via Options() object as well as restart of the browser with cache clearing every half hour.
