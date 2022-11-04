@@ -1,4 +1,4 @@
-# Read [ITIS](https://www.itis.si/) and create a list with unique slovene names
+# Read [ITIS](https://www.itis.si/) and create a list with unique Slovene names
 
 ![UniqueSloveneNamesWebCrawler](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/WebCrawl.jpg)
 
