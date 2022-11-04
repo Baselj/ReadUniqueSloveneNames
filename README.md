@@ -2,7 +2,7 @@
 
 ## Description
 
-Read [Slovene phone book](https://www.itis.si/), insert cities name and create unique names.txt file with unique Slovene names seperated by new line
+Read [Slovene phone book](https://www.itis.si/), insert cities name from [cities.txt](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/cities.txt) and create unique names.txt file with unique Slovene names seperated by new line
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Read [Slovene phone book](https://www.itis.si/), insert cities name and create u
 
 ## Example
 
-Example of names list can be found in 
+Example of name lists can be found in 
  - [Unique names seperated by new line](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/name.txt)
  - [Unique names seperated by ;](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/namecsv.txt)
  - [All names and surnames](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/nameSurname.txt)
