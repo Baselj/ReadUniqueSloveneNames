@@ -36,4 +36,5 @@ Script uses automated control of Chrome browser, it's designed for long term ope
     - names.txt : unique Slovene names seperated by new line,
     - namecsv.txt : unique Slovene names seperated by ;,
     - nameSurname.txt : all scraped Slovene names and surnames seperated by new line,
- - due to memory issues with long term Chrome operation, some configurations changes were added to Chrome via Options() object as well as restart of the browser with cache clearing every half hour. The script can operate for 24+ hours without crashing.
+ - due to memory issues with long term Chrome operation, some configurations changes were added to Chrome via Options() object as well as restart of the browser with cache clearing every half hour. The script can operate for 24+ hours without crashing,
+ - if the browser crashes the script resumes work from the previous time (it keeps adding names and deleting cities already scraped)
