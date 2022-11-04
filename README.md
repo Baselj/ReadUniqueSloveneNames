@@ -2,7 +2,7 @@
 
 ## Description
 
-Read [Slovene phone book](https://www.itis.si/), insert cities name from [cities.txt](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/cities.txt) and create unique names.txt file with unique Slovene names seperated by new line
+Read [Slovene phone book](https://www.itis.si/), insert cities name from [cities.txt](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/cities.txt) and list with unique Slovene names.
 
 ## Requirements
 
