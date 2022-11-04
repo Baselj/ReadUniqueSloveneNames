@@ -8,7 +8,7 @@ Read [Slovene phone book](https://www.itis.si/), insert cities name from [cities
 
 1. Python 3.10. or higher
 2. Chrome browser with ChromeDriver to use with selenium browser automation tool (you need to find appropriate ChromeDriver for your Chrome browser)
-3. Install requirements with pip install requirements.txt 
+3. Install requirements with pip install [requirements.txt](https://github.com/Baselj/UniqueSloveneNamesWebCrawler/blob/main/requirements.txt)
 
 ## How do I use it?
 
